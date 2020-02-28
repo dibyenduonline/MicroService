@@ -1,0 +1,7 @@
+-------------------------------------------------
+For retry and circuit breaker please use Polly
+
+https://github.com/App-vNext/Polly
+https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core
+
+-------------------------------------------------------------------------
